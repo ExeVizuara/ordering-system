@@ -8,3 +8,12 @@ Para el "registro" de las cuentas y los pedidos se utilizó el LocalStorage del 
 En un entorno de producción, se realizaria un backend con una API Rest para el manejo de usuarios y roles del lado del servidor.
 
 Creado por Exequiel Vizuara. Vi.Tec.
+
+Importante: 
+  Datos de acceso Admin:
+    username: admin
+    password: admin
+
+  Datos de acceso usuario:
+    username: user1
+    password: user1
