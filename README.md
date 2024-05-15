@@ -10,10 +10,15 @@ En un entorno de producción, se realizaria un backend con una API Rest para el 
 Creado por Exequiel Vizuara. Vi.Tec.
 
 Importante: 
+
   Datos de acceso Admin:
+  
     username: admin
+    
     password: admin
 
   Datos de acceso usuario:
+  
     username: user1
+    
     password: user1
